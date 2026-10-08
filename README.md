@@ -14,7 +14,7 @@
 ![职位](https://img.shields.io/badge/职位-Java%20开发工程师-2E86DE?style=flat-square&logo=openjdk&logoColor=white)
 ![坐标](https://img.shields.io/badge/坐标-南京-EC6A3F?style=flat-square&logo=mapbox&logoColor=white)
 ![状态](https://img.shields.io/badge/状态-在职-3ECF8E?style=flat-square)
-![邮箱](https://img.shields.io/badge/邮箱-18851037162%40139.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)
+![邮箱](https://img.shields.io/badge/邮箱-caixibei%40139.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)
 [![访客](https://komarev.com/ghpvc/?username=caixibei&style=flat-square&color=blueviolet&label=访客)](https://github.com/caixibei)
 [![Followers](https://img.shields.io/github/followers/caixibei?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/caixibei?tab=followers)
 
@@ -29,7 +29,7 @@
 - 🔧 熟悉 **SSH / SSM** 技术栈，掌握 **DB2 / Oracle / MySQL** 数据库
 - 👀 了解 **RabbitMQ / Redis / XXL-JOB** 等微服务组件
 - 🖥 前端掌握 **JavaScript / Ajax / Axios / Vue**，熟练使用 **Element UI / Ant Design** 等第三方 UI 组件
-- 📮 联系我：[18851037162@139.com](mailto:18851037162@139.com)
+- 📮 联系我：[caixibei@139.com](mailto:caixibei@139.com)
 
 > 💬 **自我评价**：本人有较强的学习能力，沟通能力和团队精神。对工作认真负责，适应能力强，工作认真仔细，具有极强的责任感。
 
@@ -77,7 +77,7 @@
 
 ### 🏢 金现代信息产业股份有限公司 — Java 开发工程师
 
-`🗓 2021-11 ~ 至今`
+![时间](https://img.shields.io/badge/2021--11_~_至今-555555?style=flat-square&logo=calendar&logoColor=white)
 
 **📌 项目：培训教务管理**（成员）
 
@@ -101,7 +101,7 @@
 
 ### 🏢 箩筐达通科技有限公司 — Java 开发工程师
 
-`🗓 2021-04 ~ 2021-10`
+![时间](https://img.shields.io/badge/2021--04_~_2021--10-555555?style=flat-square&logo=calendar&logoColor=white)
 
 **📌 项目：高速公路恶劣天气与低能见度数字监测预警系统**（成员）
 
@@ -120,7 +120,7 @@
 
 ### 🏢 赛特斯信息科技有限公司 — Java 开发（实习）
 
-`🗓 2020-12 ~ 2021-03`
+![时间](https://img.shields.io/badge/2020--12_~_2021--03-555555?style=flat-square&logo=calendar&logoColor=white)
 
 **📌 项目：福建运检管控（国网）**（成员）
 
@@ -135,22 +135,33 @@
 
 ### 🏫 南京工业大学浦江学院 · 计算机与通信工程学院 — 计算机科学与技术（本科）
 
-`🗓 2017-09 ~ 2021-06`
+![时间](https://img.shields.io/badge/2017--09_~_2021--06-555555?style=flat-square&logo=calendar&logoColor=white)
 
 - 📈 GPA：**3.87 / 5.0**（专业前 5%）
 - 📚 已修学分：**175**（应获 162.5）
-- 💯 高分课程：Linux 系统应用（99）· Oracle 数据库应用（97）· 离散数学（97）· 概率论与数理统计（94）· 计算机组成原理与汇编语言（94）· 软件工程（93）
+- 💯 **高分课程**：<br>
+  ![Linux 系统应用](https://img.shields.io/badge/Linux%20系统应用-99-2E86DE?style=flat-square)
+  ![Oracle 数据库应用](https://img.shields.io/badge/Oracle%20数据库应用-97-2E86DE?style=flat-square)
+  ![离散数学](https://img.shields.io/badge/离散数学-97-2E86DE?style=flat-square)
+  ![概率论与数理统计](https://img.shields.io/badge/概率论与数理统计-94-2E86DE?style=flat-square)
+  ![计算机组成原理与汇编语言](https://img.shields.io/badge/计算机组成原理与汇编语言-94-2E86DE?style=flat-square)
+  ![软件工程](https://img.shields.io/badge/软件工程-93-2E86DE?style=flat-square)
 
 ---
 
 ## 🏆 荣誉与证书
 
 - 🥇 **Java 全国计算机等级考试 NCRE 二级**（2019.03）
-- 🎓 **CET-4 证书 · 优秀毕业生 · 优秀毕业论文**
+- 🎓 **CET-4 证书**（457 分）
+- 🌟 **优秀毕业生**
+- 📝 **优秀毕业论文**
 - 🏅 **第五届“互联网+”大学生创新创业大赛 校一等奖**
 - 📁 **校创新创业训练计划项目**（零件出入库系统 / 智能幼儿园接送系统）结项证书（2020.06）
 - ⭐ **优秀共青团员**（2018~2019 学年）
-- 🎖 **学业优秀奖学金**：2017~2018 学年 三等 · 2018~2019 学年 二等 · 2019~2020 学年 二等
+- 🎖 **学业优秀奖学金**
+  - 🥉 2017~2018 学年 · 三等
+  - 🥈 2018~2019 学年 · 二等
+  - 🥈 2019~2020 学年 · 二等
 
 ---
 
@@ -165,12 +176,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=caixibei&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caixibei&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophy" />
 </div>
 
 ---
