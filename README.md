@@ -139,10 +139,20 @@
 
 - 📈 GPA：**3.87 / 5.0**（专业前 5%）
 - 📚 已修学分：**175**（应获 162.5）
-- 💯 **高分课程**：<br>
+- 💯 **高分课程**（按分数排序，金色为满分）：<br>
+  ![职场沟通](https://img.shields.io/badge/职场沟通-100-FFB300?style=flat-square)
+  ![创造性思维与创新方法](https://img.shields.io/badge/创造性思维与创新方法-100-FFB300?style=flat-square)
+  ![大数据技术](https://img.shields.io/badge/大数据技术-100-FFB300?style=flat-square)
+  ![求职OMG--大学生就业指导](https://img.shields.io/badge/求职OMG--大学生就业指导-100-FFB300?style=flat-square)
   ![Linux 系统应用](https://img.shields.io/badge/Linux%20系统应用-99-2E86DE?style=flat-square)
+  ![演讲与口才](https://img.shields.io/badge/演讲与口才-99-2E86DE?style=flat-square)
   ![Oracle 数据库应用](https://img.shields.io/badge/Oracle%20数据库应用-97-2E86DE?style=flat-square)
   ![离散数学](https://img.shields.io/badge/离散数学-97-2E86DE?style=flat-square)
+  ![Python 程序设计课程设计](https://img.shields.io/badge/Python%20程序设计课程设计-97-2E86DE?style=flat-square)
+  ![数据库原理与应用](https://img.shields.io/badge/数据库原理与应用-96-2E86DE?style=flat-square)
+  ![移动应用开发](https://img.shields.io/badge/移动应用开发-96-2E86DE?style=flat-square)
+  ![Python 程序设计与应用](https://img.shields.io/badge/Python%20程序设计与应用-96-2E86DE?style=flat-square)
+  ![数据库原理与应用课程设计](https://img.shields.io/badge/数据库原理与应用课程设计-95-2E86DE?style=flat-square)
   ![概率论与数理统计](https://img.shields.io/badge/概率论与数理统计-94-2E86DE?style=flat-square)
   ![计算机组成原理与汇编语言](https://img.shields.io/badge/计算机组成原理与汇编语言-94-2E86DE?style=flat-square)
   ![软件工程](https://img.shields.io/badge/软件工程-93-2E86DE?style=flat-square)
