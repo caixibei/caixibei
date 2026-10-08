@@ -15,7 +15,7 @@
 ![坐标](https://img.shields.io/badge/坐标-南京-EC6A3F?style=flat-square&logo=mapbox&logoColor=white)
 ![状态](https://img.shields.io/badge/状态-在职-3ECF8E?style=flat-square)
 ![邮箱](https://img.shields.io/badge/邮箱-caixibei%40139.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)
-[![访客](https://komarev.com/ghpvc/?username=caixibei&style=flat-square&color=blueviolet&label=访客)](https://github.com/caixibei)
+[![访客](https://komarev.com/ghpvc/?username=caixibei&style=flat-square&color=blueviolet&label=%F0%9F%91%80%20访客)](https://github.com/caixibei)
 [![Followers](https://img.shields.io/github/followers/caixibei?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/caixibei?tab=followers)
 
 </div>
