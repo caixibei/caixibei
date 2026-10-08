@@ -77,7 +77,7 @@
 
 ### 🏢 金现代信息产业股份有限公司 — Java 开发工程师
 
-![时间](https://img.shields.io/badge/2021--11_~_至今-555555?style=flat-square&logo=calendar&logoColor=white)
+![时间](https://img.shields.io/badge/2021--11_~_至今-555555?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTkgNGgtMVYyaC0ydjJIOFYySDZ2Mkg1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjZhMiAyIDAgMCAwLTItMnptMCAxNkg1VjEwaDE0djEwek01IDhWNmgxNHYySDV6Ii8-PC9zdmc-)
 
 **📌 项目：培训教务管理**（成员）
 
@@ -101,7 +101,7 @@
 
 ### 🏢 箩筐达通科技有限公司 — Java 开发工程师
 
-![时间](https://img.shields.io/badge/2021--04_~_2021--10-555555?style=flat-square&logo=calendar&logoColor=white)
+![时间](https://img.shields.io/badge/2021--04_~_2021--10-555555?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTkgNGgtMVYyaC0ydjJIOFYySDZ2Mkg1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjZhMiAyIDAgMCAwLTItMnptMCAxNkg1VjEwaDE0djEwek01IDhWNmgxNHYySDV6Ii8-PC9zdmc-)
 
 **📌 项目：高速公路恶劣天气与低能见度数字监测预警系统**（成员）
 
@@ -120,7 +120,7 @@
 
 ### 🏢 赛特斯信息科技有限公司 — Java 开发（实习）
 
-![时间](https://img.shields.io/badge/2020--12_~_2021--03-555555?style=flat-square&logo=calendar&logoColor=white)
+![时间](https://img.shields.io/badge/2020--12_~_2021--03-555555?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTkgNGgtMVYyaC0ydjJIOFYySDZ2Mkg1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjZhMiAyIDAgMCAwLTItMnptMCAxNkg1VjEwaDE0djEwek01IDhWNmgxNHYySDV6Ii8-PC9zdmc-)
 
 **📌 项目：福建运检管控（国网）**（成员）
 
@@ -135,7 +135,7 @@
 
 ### 🏫 南京工业大学浦江学院 · 计算机与通信工程学院 — 计算机科学与技术（本科）
 
-![时间](https://img.shields.io/badge/2017--09_~_2021--06-555555?style=flat-square&logo=calendar&logoColor=white)
+![时间](https://img.shields.io/badge/2017--09_~_2021--06-555555?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTkgNGgtMVYyaC0ydjJIOFYySDZ2Mkg1YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjZhMiAyIDAgMCAwLTItMnptMCAxNkg1VjEwaDE0djEwek01IDhWNmgxNHYySDV6Ii8-PC9zdmc-)
 
 - 📈 GPA：**3.87 / 5.0**（专业前 5%）
 - 📚 已修学分：**175**（应获 162.5）
@@ -152,7 +152,7 @@
 ## 🏆 荣誉与证书
 
 - 🥇 **Java 全国计算机等级考试 NCRE 二级**（2019.03）
-- 🎓 **CET-4 证书**（457 分）
+- 🎓 **CET-4 证书**
 - 🌟 **优秀毕业生**
 - 📝 **优秀毕业论文**
 - 🏅 **第五届“互联网+”大学生创新创业大赛 校一等奖**
