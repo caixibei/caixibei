@@ -15,7 +15,7 @@
 ![坐标](https://img.shields.io/badge/坐标-南京-EC6A3F?style=flat-square&logo=mapbox&logoColor=white)
 ![状态](https://img.shields.io/badge/状态-在职-3ECF8E?style=flat-square)
 ![邮箱](https://img.shields.io/badge/邮箱-caixibei%40139.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)
-[![访客](https://komarev.com/ghpvc/?username=caixibei&style=flat-square&color=blueviolet&label=访客)](https://github.com/caixibei)
+[![访客](https://komarev.com/ghpvc/?username=caixibei&style=flat-square&color=blueviolet&label=%E8%AE%BF%E5%AE%A2)](https://github.com/caixibei)
 [![Followers](https://img.shields.io/github/followers/caixibei?style=flat-square&logo=github&label=Followers&color=181717&cacheSeconds=3600)](https://github.com/caixibei?tab=followers)
 
 </div>
@@ -180,7 +180,7 @@
 ## 📊 GitHub 数据统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caixibei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=zh_CN" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caixibei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=cn" alt="GitHub 统计" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caixibei&layout=compact&theme=tokyonight&hide_border=true&custom_title=%E6%9C%80%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80" alt="最常用语言" />
 </div>
 
