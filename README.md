@@ -4,7 +4,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00C6A7&height=260&section=header&text=%E8%94%A1%E7%86%99%E8%B4%9D&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%C2%B7%20Nanjing&descSize=18&descAlignY=70" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00C6A7&height=260&section=header&text=%E8%94%A1%E7%86%99%E8%B4%9D&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Java%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20%E5%8D%97%E4%BA%AC&descSize=18&descAlignY=70" alt="header" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 ![状态](https://img.shields.io/badge/状态-在职-3ECF8E?style=flat-square)
 ![邮箱](https://img.shields.io/badge/邮箱-caixibei%40139.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)
 [![访客](https://badges.pufler.dev/visits/caixibei/caixibei?style=flat-square&color=blueviolet&label=%E8%AE%BF%E5%AE%A2)](https://github.com/caixibei)
-[![个人主页](https://img.shields.io/badge/个人主页-caixibei.kdns.nf-2E86DE?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptLTEgMTcuOTNjLTMuOTUtLjQ5LTctMy44NS03LTcuOTMgMC0uNjIuMDgtMS4yMS4yMS0xLjc5TDkgMTV2MWMwIDEuMS45IDIgMiAydjEuOTN6bTYuOS0yLjU0Yy0uMjYtLjgxLTEtMS4zOS0xLjktMS4zOWgtMXYtM2MwLS41NS0uNDUtMS0xLTFIOHYtMmgyYy41NSAwIDEtLjQ1IDEtMVY3aDJjMS4xIDAgMi0uOSAyLTJ2LS40MWMyLjkzIDEuMTkgNSA0LjA2IDUgNy40MSAwIDIuMDgtLjggMy45Ny0yLjEgNS4zOXoiLz48L3N2Zz4%3D)](https://caixibei.kdns.nf/)
+[![个人主页](https://img.shields.io/badge/个人主页-caixibei.kdns.fr-2E86DE?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptLTEgMTcuOTNjLTMuOTUtLjQ5LTctMy44NS03LTcuOTMgMC0uNjIuMDgtMS4yMS4yMS0xLjc5TDkgMTV2MWMwIDEuMS45IDIgMiAydjEuOTN6bTYuOS0yLjU0Yy0uMjYtLjgxLTEtMS4zOS0xLjktMS4zOWgtMXYtM2MwLS41NS0uNDUtMS0xLTFIOHYtMmgyYy41NSAwIDEtLjQ1IDEtMVY3aDJjMS4xIDAgMi0uOSAyLTJ2LS40MWMyLjkzIDEuMTkgNSA0LjA2IDUgNy40MSAwIDIuMDgtLjggMy45Ny0yLjEgNS4zOXoiLz48L3N2Zz4%3D)](https://caixibei.kdns.fr/)
 [![Followers](https://img.shields.io/github/followers/caixibei?style=flat-square&logo=github&label=Followers&color=181717&cacheSeconds=3600)](https://github.com/caixibei?tab=followers)
 
 </div>
@@ -30,7 +30,7 @@
 - 🔧 熟悉 **SSH / SSM** 技术栈，掌握 **DB2 / Oracle / MySQL** 数据库
 - 👀 了解 **RabbitMQ / Redis / XXL-JOB** 等微服务组件
 - 🖥 前端掌握 **JavaScript / Ajax / Axios / Vue**，熟练使用 **Element UI / Ant Design** 等第三方 UI 组件
-- 🌐 个人主页：[caixibei.kdns.nf](https://caixibei.kdns.nf/)
+- 🌐 个人主页：[caixibei.kdns.fr](https://caixibei.kdns.fr/)
 - 📮 联系我：[caixibei@139.com](mailto:caixibei@139.com)
 
 > 💬 **自我评价**：本人有较强的学习能力，沟通能力和团队精神。对工作认真负责，适应能力强，工作认真仔细，具有极强的责任感。
