@@ -4,7 +4,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00C6A7&height=220&section=header&text=%E8%94%A1%E7%86%99%E8%B4%9D&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%C2%B7%20Nanjing&descSize=20&descAlignY=64" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:00C6A7&height=260&section=header&text=%E8%94%A1%E7%86%99%E8%B4%9D&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%C2%B7%20Nanjing&descSize=18&descAlignY=70" alt="header" width="100%" />
 </div>
 
 <div align="center">
